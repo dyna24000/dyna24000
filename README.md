@@ -1,33 +1,32 @@
-## Hi there 👋
+# 🌱 dyna24000  
 
-Welcome to my GitHub profile! I'm **dyna24000**, a developer passionate about building interesting projects and collaborating with the community.
-
-### 🔭 What I'm working on
-- Developing innovative solutions and exploring new technologies
-- Contributing to open source projects
-- Building tools that make development easier
-
-### 🌱 Currently learning
-- Expanding my technical skills across multiple domains
-- Staying updated with the latest industry trends and best practices
-
-### 👯 Looking to collaborate on
-- Exciting open source projects
-- Community-driven initiatives
-- Projects that make a real impact
-
-### 💬 Ask me about
-- Development practices and coding techniques
-- Project ideas and technical discussions
-- Anything tech-related!
-
-### 📫 How to reach me
-- Connect with me through GitHub issues and pull requests
-- Check out my repositories to see what I'm working on
-
-### ⚡ Fun fact
-- Every great project starts with curiosity and persistence!
+**“ស្វែងរកចំណេះដឹង បង្កើតឧបករណ៍ និងចែករំលែកជាមួយសហគមន៍”**  
 
 ---
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or have any questions!
+## 👋 សួស្តី! ខ្ញុំគឺ dyna24000
+កំពុងសិក្សា និងកំពុងបង្កើតគម្រោងថ្មីៗជានិច្ច  
+
+[![GitHub](https://img.shields.io/badge/GitHub-dyna24000-black?logo=github)](https://github.com/dyna24000)  
+[![Email](https://img.shields.io/badge/Email-ទំនាក់ទំនង-blue?logo=gmail)](mailto:mrrporkkdyna@gmail.com)  
+
+---
+
+## 🚀 ជំនាញ និងឧបករណ៍
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,docker,git,photoshop,excel" />
+</p>
+
+---
+
+## 📊 ស្ថិតិប្រវត្តិរូប
+- 👀 ចំនួនអ្នកមើល: ![Views](https://komarev.com/ghpvc/?username=dyna24000&color=blue)  
+- ⭐ Stars: **
+- 🤝 Followers: **
+
+---
+
+## 🌱 កំពុងសិក្សា
+- ការអភិវឌ្ឍ Cloud-native (Kubernetes, serverless)  
+- AI/ML សម្រាប់កម្មវិធីជាក់ស្តែង  
+- Photoshop និងការបង្ហោះរូបភាពឲ្យមានប្រសិទ្ធភាព

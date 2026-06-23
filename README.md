@@ -57,7 +57,6 @@
 ## 📫 ទំនាក់ទំនង
 - 📧 Email: mrrporkkdyna@gmail.com  
 - 🌐 GitHub: [github.com/dyna24000](https://github.com/dyna24000)  
-- 💬 Telegram: @dyna24000  
 
 ---
 

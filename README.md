@@ -1,4 +1,4 @@
-# 🌱 PORKK DINA  
+# 🌱 DINA Dev  
 
 **“បង្កើតជាមួយគោលបំណង សិក្សាជាមួយវិន័យ បង្កើតឥទ្ធិពលជាក់ស្តែង”** 
 
@@ -8,9 +8,6 @@
 - និស្សិតជំនាញ វិទ្យាសាស្ត្រកុំព្យូទ័រ (Sophomore)  
 - អនាគត Full Stack Developer  
 - ចូលចិត្តបច្ចេកវិទ្យា ការដោះស្រាយបញ្ហា និងការបង្កើតបទពិសោធន៍ឌីជីថលមានឥទ្ធិពល  
-
-[![GitHub](https://img.shields.io/badge/GitHub-dyna24000-black?logo=github)](https://github.com/dyna24000)  
-[![Email](https://img.shields.io/badge/Email-ទំនាក់ទំនង-blue?logo=gmail)](mailto:mrrporkkdyna@gmail.com)  
 
 ---
 
@@ -44,8 +41,8 @@
 
 ## 🌱 កំពុងសិក្សា
 - Full‑Stack Development Concepts  
-- Cloud‑native (Kubernetes, serverless)  
-- AI/ML សម្រាប់កម្មវិធីជាក់ស្តែង  
+- Java Programming
+- Cisco Networking
 
 ---
 
@@ -61,7 +58,6 @@
 - 📧 Email: mrrporkkdyna@gmail.com  
 - 🌐 GitHub: [github.com/dyna24000](https://github.com/dyna24000)  
 - 💬 Telegram: @dyna24000  
-- 📘 Facebook: [facebook.com/dyna24000](https://www.facebook.com/dyna24000/)  
 
 ---
 
